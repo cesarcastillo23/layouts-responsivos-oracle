@@ -1,0 +1,17 @@
+.institucional__video {
+  width: 100vw;
+}
+@media screen and (min-width: 1024px) {
+  .institucional__video {
+      align-self: flex-end;
+      width: 375px;
+  }
+}
+
+
+@media screen and (max-width: 764px) {
+  .institucional__video {
+      align-self: flex-end;
+      width: 100%;
+  }
+}

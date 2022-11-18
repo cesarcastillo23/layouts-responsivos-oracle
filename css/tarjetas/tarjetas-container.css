@@ -1,0 +1,24 @@
+
+.tarjetas__container {
+  display: flex;
+  flex-direction: column;
+
+  background-color: var(--background-blanco);
+
+  width: 100%;
+  max-width: 300px;
+
+  margin-bottom: 2rem;
+
+  border-radius: 5px;
+  box-shadow: 0 2px 10px 2px #00000010;
+  padding-right: 6%;
+  padding-left: 6%;
+}
+@media screen and (min-width: 1024px) {
+  .tarjetas__container {
+  margin: 0.5rem;
+  padding: 2rem;
+  max-width: 340px;
+  }
+}

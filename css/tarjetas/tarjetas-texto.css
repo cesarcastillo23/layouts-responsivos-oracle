@@ -1,0 +1,16 @@
+.tarjetas__texto {
+  color: var(--fuente-ceniza-claro);
+  line-height: 28px;
+  
+}
+.tarjetas__texto--start {
+  color: var(--planes-card-start);
+}
+
+.tarjetas__texto--ultra {
+  color: var(--planes-card-ultra);
+}
+
+.tarjetas__texto--mega {
+  color: var(--planes-card-mega);
+}

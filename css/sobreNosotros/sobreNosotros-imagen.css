@@ -1,0 +1,10 @@
+.sobreNosotros__imagen{
+  display:none;
+}
+
+@media screen and (min-width: 1024px) {
+
+  .sobreNosotros__imagen {
+      display: block;
+  }
+}

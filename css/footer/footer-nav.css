@@ -1,0 +1,13 @@
+.footer__nav {
+  color: var(--background-blanco);
+  font:var(--open-sans);
+  text-align: center;
+  line-height: 3;
+}
+@media screen and (min-width: 1024px) {
+  
+  .footer__nav {
+      text-align: left;
+      min-width: 600px;
+  }
+}

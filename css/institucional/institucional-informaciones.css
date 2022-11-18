@@ -1,0 +1,14 @@
+.institucional__contacto--telefono {
+  line-height: normal;
+}
+
+.institucional__contacto--email {
+  color: var(--fuente-ceniza-oscuro);
+  text-decoration: underline;
+  display: block;
+}
+@media screen and (min-width: 1024px) {
+  .institucional__contacto-email {
+      display: block;
+  }
+}

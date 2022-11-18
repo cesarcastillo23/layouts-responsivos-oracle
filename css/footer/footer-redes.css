@@ -1,0 +1,9 @@
+.footer__redes {
+  display: flex;
+}
+.footer__redes--img {
+    display: block;
+    width: 42px;
+    height: 42px;
+    margin: 2rem 1rem;
+}
